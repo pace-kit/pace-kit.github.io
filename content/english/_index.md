@@ -41,9 +41,9 @@ features:
       label: "Get Started Now"
       link: "https://github.com/pace-kit"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "The Top Reasons to Choose PACE for your next project"
+    image: "/images/project.png"
+    content: "With PACE, you can build modern and content-focused adventure games without sacrificing performance or flexibility"
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
