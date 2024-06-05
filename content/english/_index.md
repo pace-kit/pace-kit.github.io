@@ -8,36 +8,38 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://github.com/pace-kit"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "What's Included in PACE"
+    image: "/images/engine.png"
+    content: "PACE is a comprehensive starter kit that includes everything you need to create your own adventure games. It comes with a range of exciting features, including:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Complex dialogue trees for engaging storytelling."
+      - "Customizable characters and environments for unique game design."
+      - "Built-in inventory system for interactive gameplay."
+      - "Support for multiple platforms, including Windows, macOS, and Linux."
+      - "Easy-to-use editor for creating and editing game content."
+      - "Extensive documentation and tutorials to help you get started."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Discover the Key Features Of PACE"
+    image: "/images/mascot.png"
+    content: "PACE is a powerful and flexible game engine that allows you to create your own adventure games with ease. Here are some of the key features that make PACE stand out from the crowd:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Intuitive drag-and-drop interface for creating game scenes and interactions."
+      - "Built-in support for animations, sound effects, and music to bring your games to life."
+      - "Extensive library of pre-built assets and templates to help you get started quickly."
+      - "Cross-platform compatibility for seamless deployment on a wide range of devices."
+      - "Team collaboration tools for working with other developers and artists on your projects."
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://github.com/pace-kit"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
