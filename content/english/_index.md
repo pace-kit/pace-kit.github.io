@@ -1,9 +1,10 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Your next adventure awaits!"
+  content: "PACE is a point-and-click adventure game engine that allows you to create your own adventure games with ease. It's perfect for beginners and experienced developers alike."
   image: "/images/banner.png"
+  background: "/images/background/bay.png"
   button:
     enable: true
     label: "Get Started For Free"

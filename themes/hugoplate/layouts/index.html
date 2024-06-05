@@ -1,7 +1,8 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
+    <section class="section banner pt-14">
+      {{ partial "image" (dict "Src" .background "Alt" "Banner image" "Loading" "eager" "Class" "absolute-behind top-0 h-full-important object-cover opacity-30 blur-2") }}
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 md:col-9 mb-8 text-center">

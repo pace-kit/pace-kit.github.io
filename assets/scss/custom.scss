@@ -1,1 +1,18 @@
 // Add your own custom styles here
+
+.absolute-behind {
+  position: absolute;
+  z-index: -1;
+}
+
+.blur-2 {
+  filter: blur(2px);
+}
+
+.opacity-30 {
+  opacity: 0.3;
+}
+
+.h-full-important {
+  height: 100% !important;
+}
