@@ -3,7 +3,7 @@
 banner:
   title: "Your next adventure awaits!"
   content: "PACE is a **point-and-click adventure game engine and visual editor** that allows you to create interactive stories and games. Bring your ideas to life and share them with the world. PACE is perfect for beginners and experienced developers alike."
-  image: "/images/banner.png"
+  # image: "/images/banner.png"
   background: "/images/background/bay.png"
   button:
     enable: true
