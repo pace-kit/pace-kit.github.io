@@ -1,9 +1,10 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hello PACE"
 meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+description: "A description of the PACE project."
+image: "/images/bench.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+PACE is a **point-and-click adventure game engine and visual editor** that allows you to create interactive stories and games. Bring your ideas to life and share them with the world. PACE is perfect for beginners and experienced developers alike.
+It aims to provide a comprehensive starter kit that includes everything you need to create your own adventure games.
