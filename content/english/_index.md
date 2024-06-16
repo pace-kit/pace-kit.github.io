@@ -4,10 +4,13 @@ banner:
   title: "Your next adventure awaits!"
   content: "PACE is a **point-and-click adventure game engine and visual editor** that allows you to create interactive stories and games. Bring your ideas to life and share them with the world. PACE is perfect for beginners and experienced developers alike."
   # image: "/images/banner.png"
+  image:
+    src: "/images/bench.png"
+    position: "above"
   background: "/images/background/bay.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Start Building Now"
     link: "https://github.com/pace-kit"
 
 # Features
@@ -23,8 +26,8 @@ features:
       - "Easy-to-use editor for creating and editing game content."
       - "Extensive documentation and tutorials to help you get started."
     button:
-      enable: false
-      label: "Get Started Now"
+      enable: true
+      label: "View Documentation"
       link: "#"
 
   - title: "Discover the Key Features Of PACE"
@@ -45,12 +48,13 @@ features:
     image: "/images/project.png"
     content: "With PACE, you can build modern and content-focused adventure games without sacrificing performance or flexibility"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using PACE a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Easy-to-use visual editor for creating game scenes and interactions."
+      - "Powerful scripting engine for advanced game logic and customization."
+      - "Extensive library of pre-built assets and templates to help you get started quickly."
+      - "Cross-platform compatibility for seamless deployment on a wide range of devices."
+      - "Built-in support for animations, sound effects, and music to bring your games to life."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Learn More"
+      link: "https://github.com/pace-kit"
 ---
